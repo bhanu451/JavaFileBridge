@@ -75,3 +75,5 @@ Click Send to transfer the file
 | Audio     | `.mp3`    | `Recievedfileaudio.mp3`  |
 | Document  | `.pdf`    | `Recievedfiledoc.pdf`    |
 
+Server GUI
+Serever_GUI.png
