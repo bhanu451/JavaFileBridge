@@ -75,11 +75,11 @@ Click Send to transfer the file
 | Audio     | `.mp3`    | `Recievedfileaudio.mp3`  |
 | Document  | `.pdf`    | `Recievedfiledoc.pdf`    |
 
-SERVER GUI GUI
+## SERVER GUI
 
  <img width="939" height="431" alt="Serever_GUI" src="https://github.com/user-attachments/assets/55df7a32-e7eb-4beb-ace5-57c3842edecc" />
 
-CLIENT GUI
+## CLIENT GUI
 <img width="974" height="587" alt="Client1_GUI" src="https://github.com/user-attachments/assets/814c97cf-db45-4a1e-9206-275326364116" />
 <img width="978" height="510" alt="Client2_GUI" src="https://github.com/user-attachments/assets/6513ef24-f8a6-46a9-a411-32415ecdb29c" />
 
